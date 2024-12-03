@@ -52,4 +52,4 @@ These visualizations use MATLAB's `insertMarker` and `insertShape` functions. Ou
 
 ### MATLAB Script of Orientational Tracking
 
-The full example of the MATLAB code is available in this repository.
+The full example of the MATLAB code is available in this repository: [Orientational_traking.m](https://github.com/edmundovaguilar/Particle-orientational-analysis/blob/main/Orientational_Tracking.m).
